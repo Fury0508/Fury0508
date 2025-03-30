@@ -39,11 +39,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhananjaygupta&show_icons=true&theme=radical" alt="Dhananjay's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fury0508&show_icons=true&theme=radical" alt="Dhananjay's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaygupta&theme=radical" alt="Dhananjay's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fury0508&theme=radical" alt="Dhananjay's Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaygupta&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fury0508&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
